@@ -1,22 +1,22 @@
 # Проект 2. Анализ резюме из БД HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Описание-проекта)  
-[2. Краткая информация о данных](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Краткая-информация-о-данных)  
-[3. Этапы работы над проектом](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Этапы-работы-над-проектом)  
-[4. Выводы](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Выводы) 
+[1. Описание проекта](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Описание-проекта)  
+[2. Краткая информация о данных](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Краткая-информация-о-данных)  
+[3. Этапы работы над проектом](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Этапы-работы-над-проектом)  
+[4. Выводы](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Выводы) 
 
 ### Описание проекта    
 Преобразование, исследование и очистка данных для дальнейшего построения модели автоматического определения примерного уровня заработной платы соискателя для компании HeadHunter
 
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Оглавление)
 
 
 ### Краткая информация о данных
 База данных резюме с сайта hh.ru
 [Скачать здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
   
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -25,7 +25,7 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Оглавление)
 
 
 ### Выводы:  
@@ -37,4 +37,4 @@
 * Наиболее высокий темп роста заработной платы в зависимости от возраста наблюдается у соискателей с высшим образованием. 
 
 
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Оглавление)
