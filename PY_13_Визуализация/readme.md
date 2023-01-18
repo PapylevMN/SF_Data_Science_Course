@@ -1,16 +1,16 @@
 # Проект 1. Визуализация данных
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Этапы-работы-над-проектом)  
-[5. Выводы](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Выводы) 
+[1. Описание проекта](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Этапы-работы-над-проектом)  
+[5. Выводы](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Выводы) 
 
 ### Описание проекта    
 Определить основные причины оттока клиентов банка для разработки компании лояльности по удержанию клиентов
 
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -27,7 +27,7 @@
 Данные об оттоке клиентов банка
 [Скачать здесь](https://lms.skillfactory.ru/assets/courseware/v1/c903ecd0b0c995c44213d620ab6ae94d/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/churn.zip)
   
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -42,7 +42,7 @@
 9. В какой стране доля ушедших клиентов больше? Постройте тепловую картограмму, которая покажет это соотношение на карте мира. Предположите, с чем это может быть связано.
 10. Изучить зависимость оттока клиентов от кредитного рейтинга и продолжительности сотрудничества.рте категории клиентов, которые уходят чаще всего.....
 
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Оглавление)
 
 
 ### Выводы:  
@@ -53,4 +53,4 @@
 * Наибольшая доля ушедших клиентов в Германии (32.44%), при этом остатки на счетах немецких клиентов значительно выше, чем в других странах. (Медианный баланс в Германии в 2 раза больше) Так же в немецком филиале банка, средний возраст ушедших клиентов существенно превышает возраст лояльных клиентов. 
 
 
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/PY_13_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/README.md#Оглавление)

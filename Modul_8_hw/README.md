@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Результат)    
-[6. Выводы](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Выводы) 
+[1. Описание проекта](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Результат)    
+[6. Выводы](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -31,25 +31,21 @@
 ### Краткая информация о данных
 Загадывается целое число от 1 до 100
   
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Оглавление)
 
 
 ### Результаты:  
 Алгоритм бинарного поиска позволяет угадать случайное число от 1 до 100 в среднем за 5-6 попыток
 
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Оглавление)
 
 
 ### Выводы:  
 ...
-<<<<<<< HEAD
-
-=======
->>>>>>> 152cc58e5e4564ee1edd805d926670ca47b5e8ca
-:arrow_up:[к оглавлению](https://github.com/PapylevMN/sf_data_science/tree/main/Modul_8_hw/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/tree/main/Modul_8_hw/README.md#Оглавление)
