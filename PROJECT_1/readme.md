@@ -15,6 +15,11 @@
 ### Краткая информация о данных
 База данных резюме с сайта hh.ru
 [Скачать здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
+
+Курсы валют:
+[Скачать здесь](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip)
+
+
   
 :arrow_up:[к оглавлению](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_1/readme.md#Оглавление)
 
