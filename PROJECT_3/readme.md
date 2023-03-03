@@ -1,7 +1,7 @@
 # Проект 3. Создание модели предсказания рейтинга отеля для компании Booking
 
 ## Оглавление  
-[1. Постановка задачи](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_3/readme.md#Постановка задачи)  
+[1. Постановка задачи](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_3/readme.md#Постановка-задачи)  
 [2. Краткая информация о данных](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_3/readme.md#Краткая-информация-о-данных)  
 [3. Этапы работы над проектом](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_3/readme.md#Этапы-работы-над-проектом)  
 [4. Выводы](https://github.com/PapylevMN/SF_Data_Science_Course/blob/main/PROJECT_3/readme.md#Выводы) 
